@@ -1,5 +1,4 @@
-# movie_recommendation_system
-Movie Recommendation system in python
+# Movie Recommendation system in python
 
 Movie recommendation system based on content based reommendation system. Used tmdb's dataset(csv file).
 
@@ -9,4 +8,4 @@ Result:<br>
 <img src='Result.png'>
 
 Future Work:<br>
-TO develop API of this system. And to deploy it in server.
+To develop API of this system by Flask, and to deploy it in server.
