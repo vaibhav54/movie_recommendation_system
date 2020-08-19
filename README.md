@@ -5,3 +5,6 @@ Movie Recommendation system in python
 
 
 #### run the ipynb file and input your movie in give_recommendation function and get suitable recommendation!
+
+Result:<br>
+<img src='Result.png'>
